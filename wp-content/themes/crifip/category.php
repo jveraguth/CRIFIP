@@ -22,7 +22,7 @@ get_header(); ?>
 		<?php if(is_category('55')) : ?>
 			<span>Cat&eacute;gories de publications</span>
 				<?php wp_nav_menu( array('menu' => 'publications' )); ?>
-		<?php elseif (is_category('5')) : ?>	
+		<?php elseif (is_category('5')) : ?>
 			<span>Cat&eacute;gories de t&eacute;moignages</span>
 				<?php wp_nav_menu( array('menu' => 'temoignages' )); ?>
 		<?php endif; ?>

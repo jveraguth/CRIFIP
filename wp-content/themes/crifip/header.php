@@ -50,7 +50,7 @@
 					<li><a href="<?php echo home_url( '/' ); ?>temoignages/" title=""><span class="icon"><i aria-hidden="true" class="icon-temoignage"></i></span><span>T&eacute;moignages</span></a></li>
 					<li><a href="<?php echo home_url( '/' ); ?>recherche/" title=""><span class="icon"><i aria-hidden="true" class="icon-recherche"></i></span><span>Recherche</span></a></li>
 					<li><a href="<?php echo home_url( '/' ); ?>formations/" title=""><span class="icon"><i aria-hidden="true" class="icon-formation"></i></span><span>Formation</span></a></li>
-					<li><a href="<?php echo home_url( '/' ); ?>documents-mediatheque/" title=""><span class="icon"><i aria-hidden="true" class="icon-media"></i></span><span>M&eacute;diath&egrave;que</span></a></li>
+					<li><a href="<?php echo home_url( '/' ); ?>mediatheque/" title=""><span class="icon"><i aria-hidden="true" class="icon-media"></i></span><span>M&eacute;diath&egrave;que</span></a></li>
 					<li><a href="<?php echo home_url( '/' ); ?>ressources/" title=""><span class="icon"><i aria-hidden="true" class="icon-ressource"></i></span><span>Ressources</span></a></li>
 					<li><a href="<?php echo home_url( '/' ); ?>evenements/" title=""><span class="icon"><i aria-hidden="true" class="icon-event"></i></span><span>&Eacute;venements</span></a></li>
 				</ul>

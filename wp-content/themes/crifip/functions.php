@@ -6,6 +6,7 @@ add_image_size( 'myfeature2-thumb', 280, 450 );
 add_image_size( 'myfeature3-thumb', 550, 150, true );
 add_image_size( 'mediacat-thumb', 150, 150 );
 add_image_size( 'myfeature4-thumb', 150, 300, true );
+add_image_size( 'MediathequeOne-thumb', 254, 191, true );
 add_theme_support( 'menus' );
 
 if ( ! function_exists( 'boilerplate_continue_reading_link' ) ) :
@@ -218,8 +219,6 @@ if( !is_admin()){
 	wp_register_script('jquery', ("http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"), false, '1.10.2');
 	wp_enqueue_script('jquery');
 }
-
-
 
 
 
